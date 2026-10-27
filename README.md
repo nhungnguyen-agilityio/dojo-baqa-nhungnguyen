@@ -1,4 +1,4 @@
-﻿# Lantern Stay – BA/QA practice (team)
+﻿# Lantern Stay – BA/QA practice by Nhung Nguyen
 
 Fictional client for the AI Tools training. Training data only – no real client data.
 
