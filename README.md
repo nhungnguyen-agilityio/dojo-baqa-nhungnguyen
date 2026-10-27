@@ -1,4 +1,4 @@
-﻿# Lantern Stay – BA/QA practice (testing)
+﻿# Lantern Stay – BA/QA practice (testing 1)
 
 Fictional client for the AI Tools training. Training data only – no real client data.
 
