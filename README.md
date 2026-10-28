@@ -16,3 +16,4 @@ Fictional client for the AI Tools training. Training data only – no real clien
 - notes/    personal notes, decision docs
 
 Status: LS-101 in review.
+Status: waiting for the client.
