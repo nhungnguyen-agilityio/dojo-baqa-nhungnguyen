@@ -15,5 +15,4 @@ Fictional client for the AI Tools training. Training data only – no real clien
 - tests/    test matrices (.md) and Playwright tests (.spec.js)
 - notes/    personal notes, decision docs
 
-Status: LS-101 in review.
 Status: waiting for the client.
